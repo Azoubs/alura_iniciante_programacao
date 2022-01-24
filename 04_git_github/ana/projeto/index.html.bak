@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Cursos de DevOps da Alura</title>
+</head>
+<body>
+    <ul>
+        <li>Vagrant</li>
+        <li>Docker: Criando containers sem dor de cabeça</li>
+        <li>Ansible</li>
+        <li>Integração Contínua: Uma Coisa que Existe</li>
+<<<<<<< HEAD
+<<<<<<< HEAD
+		<li>Mais um item da lista</li>
+=======
+		<li>Kubernetes</li>
+>>>>>>> lista
+=======
+		<li>Cursos de DevOps da Alura</li>
+>>>>>>> 0ba9cc12a0d2133eb279534950dfe8645d89134c
+    </ul>
+</body>
+</html>
